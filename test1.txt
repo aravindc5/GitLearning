@@ -1,1 +1,3 @@
 test
+test2 -fail
+test3-pass
